@@ -3,6 +3,9 @@
 <h1>BlogSpree 📝🚀</h1>
 <p>BlogSpree is a React-based blogging web application where users can create, edit, and read blog posts. Users can explore other people's posts, making it an interactive and engaging platform for sharing content. </p>
 
+<h1>Link to the website:</h1>
+<strong><a href="https://blogspree.vercel.app/">BlogSpree</a></strong>
+
 <h2>✨ Features</h2>
 <ul>
   <li>🔐 <strong>Login & Signup Pages:</strong> Secure user authentication with user-friendly forms.</li>
@@ -25,6 +28,3 @@
   <li>🔀 <strong>Routing:</strong> React Router DOM</li>
   <li>🔄 <strong>State Management:</strong> Redux</li>
 </ul>
-
-<h1>Link to the website:</h1>
-<a href="https://blogspree.vercel.app/">BlogSpree</a>
