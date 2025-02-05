@@ -27,4 +27,4 @@
 </ul>
 
 <h1>Link to the website:</h1>
-<a href="https://blogspree.vercel.app/">amazon-javascript</a>
+<a href="https://blogspree.vercel.app/">BlogSpree</a>
