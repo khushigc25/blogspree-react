@@ -25,3 +25,6 @@
   <li>🔀 <strong>Routing:</strong> React Router DOM</li>
   <li>🔄 <strong>State Management:</strong> Redux</li>
 </ul>
+
+<h1>Link to the website:</h1>
+<a href="https://blogspree.vercel.app/">amazon-javascript</a>
